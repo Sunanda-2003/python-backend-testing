@@ -14,7 +14,7 @@ CORS(app)
 db_write_config = {
     'host': 'database-1.cdwg0suic5ew.us-east-1.rds.amazonaws.com',
     'user': 'admin',
-    'password': 'Cloud123',
+    'password': 'Karumuri20033',
     'database': 'dev'
 }
 
@@ -22,7 +22,7 @@ db_write_config = {
 db_read_config = {
     'host': 'reader.cdwg0suic5ew.us-east-1.rds.amazonaws.com',
     'user': 'admin',
-    'password': 'Cloud123',
+    'password': 'Karumuri200333',
     'database': 'dev'
 }
 
